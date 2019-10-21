@@ -1,0 +1,11 @@
+com/kefi/app/configuration/SimpleCORSFilter.class
+com/kefi/app/configuration/ConfigurationTomcat.class
+com/kefi/app/controller/StudentController.class
+com/kefi/app/repo/StudentRepository.class
+com/kefi/app/DemoTestApplication.class
+com/kefi/app/services/StudentService.class
+com/kefi/app/services/StudentServiceImpl.class
+com/kefi/app/controller/UploadWebServices.class
+com/kefi/app/model/Student.class
+com/kefi/app/services/FileService.class
+com/kefi/app/controller/VersionController.class

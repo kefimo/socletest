@@ -1,5 +1,0 @@
-com/kefi/app/configuration/SimpleCORSFilter.class
-com/kefi/app/configuration/ConfigurationTomcat.class
-com/kefi/app/controller/UploadWebServices.class
-com/kefi/app/UploadLargeFileApplication.class
-com/kefi/app/services/FileService.class

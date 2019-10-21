@@ -1,0 +1,13 @@
+com/kefi/app/test/controller/StudentControllerTests.class
+com/kefi/app/test/services/tdd/StudentServicesTest.class
+com/kefi/app/test/controller/bdd/BddControllerTest.class
+com/kefi/app/test/SpringIntegrationTest.class
+com/kefi/app/test/controller/bdd/CallStudentAPI.class
+com/kefi/app/test/controller/SecuredControllerWebMvcIntegrationTest.class
+com/kefi/app/test/ResponseResults.class
+com/kefi/app/test/SpringIntegrationTest$1.class
+com/kefi/app/test/HeaderSettingRequestCallback.class
+com/kefi/app/test/SpringIntegrationTest$ResponseResultErrorHandler.class
+com/kefi/app/test/services/bdd/BddServiceTest.class
+com/kefi/app/test/controller/Ng2bootApplicationTests.class
+com/kefi/app/test/services/bdd/BddServiceImplTest.class

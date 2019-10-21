@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.kefi.upload</groupId>
-	<artifactId>parent</artifactId>
+	<artifactId>parenttest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>parent</name>
+	<name>parenttest</name>
 	<description>POC upload large files</description>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -24,7 +24,7 @@
 	</properties>
 
 	<modules>
-		<module>frontend</module>
-		<module>backend</module>
+		<module>testfrontend</module>
+		<module>testbackend</module>
 	</modules>
 </project>
